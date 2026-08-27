@@ -1,0 +1,24 @@
+PHOTO GALLERY INSTALLER - PRE-RELEASE TERMS
+
+Photo Gallery Installer and its compatibility patches are a community-made project.
+They are not produced, sponsored, endorsed, or supported by Microsoft.
+
+Original Microsoft Windows Photo Gallery, SQL Server Compact, Windows Vista
+resources, and any other Microsoft binaries are NOT licensed by this project.
+This setup is designed to operate only on compatible files that the user
+supplies from a lawfully obtained Windows Vista installation or installation
+media. All rights in those Microsoft files remain with their respective owner.
+
+The compatibility setup modifies copies of user-supplied files and creates
+per-user registry entries so that Windows Vista Windows Photo Gallery can run
+on newer versions of Windows. The original source files selected by the user
+are not modified.
+
+This project is experimental software and is provided "as is", without warranty
+of any kind, express or implied. Use it at your own risk. The authors and
+contributors are not responsible for data loss, system instability, or other
+damage arising from use of this software.
+
+By continuing, you acknowledge that this is an unofficial compatibility project
+and that you are responsible for complying with the license terms that apply to
+the Microsoft software you supply.
